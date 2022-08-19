@@ -1,0 +1,63 @@
+2022-08-19 16:45:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS MESSAGES ([*]"; expected "identifier"; SQL statement:
+CREATE TABLE IF NOT EXISTS messages ( [42001-200]
+2022-08-19 16:47:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+UPDATE "MESSAGE" SET "TEXT" = ? WHERE "MESSAGE"."ID" = ? [42102-200]
+2022-08-19 16:48:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:48:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:51:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:52:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:52:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 16:53:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:15:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:17:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:17:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:17:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:18:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:18:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
+2022-08-19 17:19:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" not found; SQL statement:
+INSERT INTO "MESSAGE" ("TEXT") VALUES (?) [42102-200]
